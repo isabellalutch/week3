@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #b9d8e1;
+    padding: 50px;
+}
+
+h1 {
+    color: #333333;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#moodBox {
+    width: 300px;
+    padding: 40px;
+    margin: 30px auto;
+    background-color: white;
+    border: 2px solid #333333;
+    font-size: 20px;
+}
+
+#keyboardMessage {
+    margin-top: 30px;
+}
+
+#windowSize {
+    margin-top: 30px;
+    color: #555555;
+}
